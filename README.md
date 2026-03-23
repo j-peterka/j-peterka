@@ -1,4 +1,4 @@
-# Hi, I'm Jaroslav Peterka 👋
+# Hi, I'm Jaroslav Peterka
 
 I'm a data-focused student passionate about turning raw data into meaningful insights. Currently looking for opportunities in **Data Science** and **Data Analytics**.
 
