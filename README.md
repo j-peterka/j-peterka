@@ -24,12 +24,6 @@ I'm a data-focused student passionate about turning raw data into meaningful ins
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## What I'm Working On
-
-- Building my first data projects to showcase on GitHub
-- Strengthening my Python and SQL skills
-- Learning machine learning fundamentals
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaroslav-peterka-a50734249/)
