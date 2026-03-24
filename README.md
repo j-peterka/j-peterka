@@ -1,14 +1,12 @@
 # Hi, I'm Jaroslav Peterka
 
-I'm a data-focused student passionate about turning raw data into meaningful insights. Currently looking for opportunities in **Data Science** and **Data Analytics**.
-
 ## About Me
 
-- 🎓 Student with a focus on data and analytics
-- 📊 I enjoy working with data — from cleaning and analysis to visualization and modeling
-- 🌱 Continuously learning and building projects
-- 📍 Czech Republic
-- 💼 Open to internships and entry-level roles in Data Science / Data Analytics
+- Student at the University of Economics in Prague, majoring in Data Analytics
+- I enjoy working with data — from cleaning and analysis to visualization and modeling
+- Continuously learning and building projects
+- Prague
+- Open to internships and entry-level roles in Data Science / Data Analytics
 
 ## Tech Stack
 
