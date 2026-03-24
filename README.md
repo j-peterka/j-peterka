@@ -3,7 +3,7 @@
 ## About Me
 
 - Student at the University of Economics in Prague, majoring in Data Analytics
-- I enjoy working with data — from cleaning and analysis to visualization and modeling
+- I enjoy working with data, from analysis to presenting valuable insights
 - Continuously learning and building projects
 - Prague
 - Open to internships and entry-level roles in Data Science / Data Analytics
